@@ -1,5 +1,11 @@
 # About Mannerly-mail
-The purpose of this project is…
+The purpose of this project is encourage good email composition etiquette by giving people a guided, opinionated experience for drafting emails.
+
+Includes the following:
+- Prompts that make senders think
+- Help for how to answer prompts
+- Sections to focus what type of content is needed
+- Template that results in emails with 5 sentences or less (unless you cheat!)
 
 [Check out my YouTube video on how to get started using this template](https://youtu.be/jlkHEmgQhGU)
 
